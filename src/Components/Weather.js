@@ -61,7 +61,7 @@ export default function Weather({defaultCity}) {
 
                 <WeatherInfo weatherData={weatherData}/>
                 <WeatherForecast coordinates={weatherData.coordinates} />
-                <div className="link">This project is <a href= {"https://github.com/safari-zahra/react-weather-app"} target={"_blank"} rel={"noreferrer"}>open-sourced on GitHub</a> and <a href={"https://polite-otter-849dba.netlify.app/"} target={"_blank"} rel={"noreferrer"}>hosted on Netlify</a></div>
+                <div className="link">This project is <a href= {"https://github.com/safari-zahra/react-weather-app"} target={"_blank"} rel={"noreferrer"}>open-sourced on GitHub</a> and <a href={"https://startling-gumption-a43343.netlify.app//"} target={"_blank"} rel={"noreferrer"}>hosted on Netlify</a></div>
 
             </div>
         );
